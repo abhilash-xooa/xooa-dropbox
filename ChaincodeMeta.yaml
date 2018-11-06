@@ -1,27 +1,6 @@
 chaincodes:
-  Xooa-Get-Set-Root:
-    Name: Get-Set-Root
-    AppInfo: Xooa Get Set Chaincode Application
-    path: /
-    language: go
-  Xooa-Get-Set:
-    Name: Get-Set-sacc
-    AppInfo: Xooa Get Set Chaincode Application
-    path: /sacc/
-    language: go
-  Xooa-Get-Set-Node:
-    Name: Get-Set-node
-    AppInfo: Xooa Get Set Chaincode Application
+  Xooa-Dropbox-Node:
+    Name: Dropbox-node
+    AppInfo: Xooa Dropbox Chaincode Application
     path: /vtestnode/
     language: node
-  Xooa-Get-Set-Access-Another-Chaincode:
-    Name: Xooa-Get-Set-Access-Another-Chaincode
-    AppInfo: Xooa-Get-Set-Access-Another-Chaincode
-    path: /vtest/
-    language: go
-  Xooa-Get-Set-Access-Another-Chaincode-new:
-    Name: Xooa-Get-Set-Access-Another-Chaincode
-    AppInfo: Xooa-Get-Set-Access-Another-Chaincode
-    path: /vtest/
-    language: go  
-

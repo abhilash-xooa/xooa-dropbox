@@ -1,7 +1,7 @@
 {
-  "name": "fabcar",
+  "name": "xooa-dropbox",
   "version": "1.0.0",
-  "description": "fabcar chaincode implemented in node.js",
+  "description": "xooa-dropbox chaincode implemented in node.js",
   "engines": {
     "node": ">=8.4.0",
     "npm": ">=5.3.0"
